@@ -24,4 +24,8 @@ class Circle {
   get area() {
     return Math.pow((this.radius * math.PI), 2);
   }
+  
+  set area(a) {
+    Math
+  }
 }
