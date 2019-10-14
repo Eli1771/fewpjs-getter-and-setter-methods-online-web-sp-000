@@ -22,7 +22,7 @@ class Circle {
   }
   
   get area() {
-    return Math.pow((this.radius * math.PI), 2);
+    return Math.pow((this.radius * Math.PI), 2);
   }
   
   set area(a) {
